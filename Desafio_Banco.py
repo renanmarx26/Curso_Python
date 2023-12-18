@@ -1,7 +1,7 @@
 menu = input(f"""
-            Digite a opcao desejada:
+            Digite a opção desejada:
 ==============================================
-[1] Deposito
+[1] Depósito
 [2] Saque
 [3] Extrato
 [0] Sair
@@ -67,9 +67,3 @@ while True:
 
     else:
         print("Erro. Selecione uma opção válida.")
-
-
-    
-
-
-
